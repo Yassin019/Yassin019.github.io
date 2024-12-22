@@ -1,0 +1,50 @@
+
+* {
+    font-family: Helvetica;
+}
+
+.title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(../Bilder/pattern.jpeg);
+    background-size: cover;
+    text-align: center;
+    padding: 5px 20px;
+    overflow: auto;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.product-name {
+    font-weight: bold;
+}
+
+.brushes {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
